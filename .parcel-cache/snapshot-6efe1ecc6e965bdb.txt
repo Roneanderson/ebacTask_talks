@@ -1,4 +1,4 @@
-5694
+5709
 111E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\HTMLparser.h133117882010000000 0
 110E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gobject\gsignal.h133117882010000000 0
 56E:\git\projeto_parcel\teck_talks\node_modules\dotenv\lib133571651347004197 1
@@ -9,7 +9,6 @@
 77E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\regions\IS.js133571651428918366 0
 82E:\git\projeto_parcel\teck_talks\node_modules\@parcel\package-manager\package.json133571651372078579 0
 65E:\git\projeto_parcel\teck_talks\src\fonts\Roboto-BlackItalic.ttf133082980300000000 0
-48E:\git\projeto_parcel\teck_talks\dist\index.html133574969756149725 0
 50E:\git\projeto_parcel\teck_talks\sharp.config.json133571724833395668 0
 84E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\passkeys.js133571651442220081 0
 82E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_type_of\package.json133571651411183719 0
@@ -24,7 +23,7 @@
 75E:\git\projeto_parcel\teck_talks\node_modules\@parcel\workers\lib\Worker.js133571651373747543 0
 108E:\git\projeto_parcel\teck_talks\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\010-introduction.md133571651378274743 0
 42E:\git\projeto_parcel\teck_talks\src\fonts133573137638799442 1
-45E:\git\projeto_parcel\teck_talks\package.json133571664166832905 0
+45E:\git\projeto_parcel\teck_talks\package.json133576594434728465 0
 77E:\git\projeto_parcel\teck_talks\node_modules\@parcel\utils\test\input\config133571651394054918 1
 109E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libxml2\libxml\encoding.h133117882010000000 0
 80E:\git\projeto_parcel\teck_talks\node_modules\css-tree\lib\common\SyntaxError.js133571651393585211 0
@@ -44,7 +43,7 @@
 73E:\git\projeto_parcel\teck_talks\node_modules\svgo\plugins\mergeStyles.js133571651368350922 0
 81E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\src\_object_spread.mjs133571651425680384 0
 73E:\git\projeto_parcel\teck_talks\node_modules\readable-stream\readable.js133571663153690094 0
-52E:\git\projeto_parcel\teck_talks\src\scripts\main.js133574966331701113 0
+52E:\git\projeto_parcel\teck_talks\src\scripts\main.js133576606679057055 0
 66E:\git\projeto_parcel\teck_talks\node_modules\@parcel\packager-raw133571651338279606 1
 95E:\git\projeto_parcel\teck_talks\node_modules\sharp\node_modules\detect-libc\lib\detect-libc.js133571663144295948 0
 50E:\git\projeto_parcel\teck_talks\package-lock.json133571663323764585 0
@@ -73,7 +72,7 @@
 43E:\git\projeto_parcel\teck_talks\src\images133573134286752037 1
 105E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-gobject.h133117882010000000 0
 94E:\git\projeto_parcel\teck_talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133571651382382181 0
-37E:\git\projeto_parcel\teck_talks\dist133574969756169708 1
+37E:\git\projeto_parcel\teck_talks\dist133576606684632247 1
 98E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\keyboardevent-location.js133571651432286272 0
 102E:\git\projeto_parcel\teck_talks\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133571651374097326 1
 114E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gfileenumerator.h133117882010000000 0
@@ -97,15 +96,15 @@
 100E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\vips\mosaicing.h133117882010000000 0
 122E:\git\projeto_parcel\teck_talks\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\build-test.js133571651330414493 0
 91E:\git\projeto_parcel\teck_talks\node_modules\@parcel\runtime-browser-hmr\lib\HMRRuntime.js133571651345445141 0
-47E:\git\projeto_parcel\teck_talks\src\index.html133574969616022281 0
+47E:\git\projeto_parcel\teck_talks\src\index.html133576605339941589 0
 78E:\git\projeto_parcel\teck_talks\node_modules\@parcel\fs\src\NodeFS.browser.js133571651354659413 0
 118E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdbusobjectskeleton.h133117882010000000 0
 57E:\git\projeto_parcel\teck_talks\node_modules\ansi-styles133571651332763040 1
 95E:\git\projeto_parcel\teck_talks\node_modules\@babel\highlight\node_modules\chalk\index.js.flow133571651324208361 0
 66E:\git\projeto_parcel\teck_talks\node_modules\tar-fs\test\index.js133571663152540816 0
-44E:\git\projeto_parcel\teck_talks\src\scripts133571652108587988 1
+44E:\git\projeto_parcel\teck_talks\src\scripts133576013853137521 1
 78E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_get_prototype_of133571651404558372 1
-55E:\git\projeto_parcel\teck_talks\src\styles\_event.scss133574962064737973 0
+55E:\git\projeto_parcel\teck_talks\src\styles\_event.scss133575935011514920 0
 87E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\canvas-text.js133571651384330968 0
 68E:\git\projeto_parcel\teck_talks\node_modules\@parcel\runtime-js\src133571651370039845 1
 96E:\git\projeto_parcel\teck_talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c133571651370519565 0
@@ -392,7 +391,7 @@
 113E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\libgsf-1\gsf\gsf-input-bzip.h133117882010000000 0
 94E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs133571651412293021 0
 56E:\git\projeto_parcel\teck_talks\node_modules\color-name133571651326896709 1
-56E:\git\projeto_parcel\teck_talks\dist\index.ccf8b59a.ttf133574968586281732 0
+56E:\git\projeto_parcel\teck_talks\dist\index.ccf8b59a.ttf133576605387617436 0
 112E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gloadableicon.h133117882010000000 0
 112E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\glib\gstrvbuilder.h133117882010000000 0
 58E:\git\projeto_parcel\teck_talks\node_modules\color-string133571663145145413 1
@@ -697,7 +696,7 @@
 103E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\src\_class_static_private_field_spec_set.mjs133571651414031954 0
 56E:\git\projeto_parcel\teck_talks\node_modules\nullthrows133571651340848014 1
 63E:\git\projeto_parcel\teck_talks\node_modules\picomatch\LICENSE133571651305820591 0
-60E:\git\projeto_parcel\teck_talks\dist\ebac_logo.a50a4e19.svg133574968586641533 0
+60E:\git\projeto_parcel\teck_talks\dist\ebac_logo.a50a4e19.svg133576605387427491 0
 50E:\git\projeto_parcel\teck_talks\node_modules\once133571663145115431 1
 60E:\git\projeto_parcel\teck_talks\node_modules\ordered-binary133571651360265952 1
 69E:\git\projeto_parcel\teck_talks\node_modules\posthtml-render\license133571651316962865 0
@@ -1480,7 +1479,7 @@
 98E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\lib\libgobject-2.0.lib133117882010000000 0
 68E:\git\projeto_parcel\teck_talks\node_modules\svgo\lib\svgo\jsAPI.js133571651367721289 0
 69E:\git\projeto_parcel\teck_talks\node_modules\picocolors\package.json133571651327926054 0
-53E:\git\projeto_parcel\teck_talks\dist\scripts\main.js133574968585882003 0
+53E:\git\projeto_parcel\teck_talks\dist\scripts\main.js133576606684562323 0
 89E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\versions.json133117882020000000 0
 72E:\git\projeto_parcel\teck_talks\node_modules\@parcel\types\package.json133571651345045409 0
 70E:\git\projeto_parcel\teck_talks\node_modules\svgo\lib\svgo\plugins.js133571651370609504 0
@@ -1879,6 +1878,7 @@
 82E:\git\projeto_parcel\teck_talks\node_modules\css-what\lib\commonjs\parse.d.ts.map133571651354609453 0
 73E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\src\_using.mjs133571651426939590 0
 105E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\orc-0.4\orc\orccode.h133117882010000000 0
+59E:\git\projeto_parcel\teck_talks\dist\frontend.1e45a506.png133576594778928020 0
 64E:\git\projeto_parcel\teck_talks\node_modules\@parcel\logger\lib133571651331973530 1
 92E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\esm\_class_private_method_init.js133571651393964972 0
 92E:\git\projeto_parcel\teck_talks\node_modules\sharp\node_modules\node-addon-api\package.json133571663153180432 0
@@ -2076,7 +2076,7 @@
 72E:\git\projeto_parcel\teck_talks\node_modules\picocolors\picocolors.d.ts133571651337859872 0
 111E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-deprecated.h133117882010000000 0
 96E:\git\projeto_parcel\teck_talks\node_modules\htmlnano\lib\modules\removeRedundantAttributes.mjs133571651391726358 0
-60E:\git\projeto_parcel\teck_talks\dist\teck_talks.59712999.js133574968585871986 0
+60E:\git\projeto_parcel\teck_talks\dist\teck_talks.59712999.js133576605387437472 0
 105E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-font.h133117882010000000 0
 107E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\harfbuzz\hb-ot-layout.h133117882010000000 0
 89E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\border-radius.js133571651381542677 0
@@ -2250,6 +2250,7 @@
 92E:\git\projeto_parcel\teck_talks\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133571651380503331 0
 85E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\svg-html5.js133571651446857206 0
 113E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdbusmenumodel.h133117882010000000 0
+60E:\git\projeto_parcel\teck_talks\dist\index.f9a77b28.css.map133576594811073908 0
 120E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdbusmethodinvocation.h133117882010000000 0
 114E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\glib-2.0\gio\gdtlsconnection.h133117882010000000 0
 89E:\git\projeto_parcel\teck_talks\node_modules\@parcel\core\test\fixtures\invalid-distpath133571651401950004 1
@@ -2470,6 +2471,7 @@
 112E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftcolor.h133117882010000000 0
 113E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\ftdriver.h133117882010000000 0
 70E:\git\projeto_parcel\teck_talks\node_modules\semver\internal\debug.js133571651352330865 0
+55E:\git\projeto_parcel\teck_talks\dist\index.0ae8c581.js133576594804106193 0
 113E:\git\projeto_parcel\teck_talks\node_modules\sharp\vendor\8.13.3\win32-x64\include\freetype2\freetype\fterrors.h133117882010000000 0
 97E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-text-wrap-balance.js133571651403778849 0
 86E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_async_generator_delegate133571651400770740 1
@@ -2996,7 +2998,7 @@
 64E:\git\projeto_parcel\teck_talks\node_modules\node-releases\data133571651335701225 1
 91E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\payment-request.js133571651442320030 0
 94E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-letter-spacing.js133571651400271036 0
-59E:\git\projeto_parcel\teck_talks\dist\index.f75de5e1.js.map133574968586341717 0
+59E:\git\projeto_parcel\teck_talks\dist\index.f75de5e1.js.map133576606684622283 0
 103E:\git\projeto_parcel\teck_talks\node_modules\node-releases\data\release-schedule\release-schedule.json133571651338719336 0
 65E:\git\projeto_parcel\teck_talks\node_modules\@swc\core\util.d.ts133571651363144142 0
 84E:\git\projeto_parcel\teck_talks\node_modules\node-releases\data\processed\envs.json133571651325607488 0
@@ -3456,7 +3458,7 @@
 82E:\git\projeto_parcel\teck_talks\node_modules\htmlnano\lib\modules\mergeStyles.mjs133571651384181040 0
 96E:\git\projeto_parcel\teck_talks\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133571651359266559 0
 96E:\git\projeto_parcel\teck_talks\node_modules\htmlnano\lib\modules\minifyConditionalComments.mjs133571651386589536 0
-59E:\git\projeto_parcel\teck_talks\dist\frontend.ffcc0254.png133574968586461647 0
+59E:\git\projeto_parcel\teck_talks\dist\frontend.ffcc0254.png133576605387767277 0
 80E:\git\projeto_parcel\teck_talks\node_modules\htmlnano\lib\modules\minifyCss.cjs133571651360056058 0
 79E:\git\projeto_parcel\teck_talks\node_modules\htmlnano\lib\modules\minifyJs.cjs133571651361035456 0
 96E:\git\projeto_parcel\teck_talks\node_modules\@parcel\reporter-dev-server\src\templates\404.html133571651337779927 0
@@ -3669,6 +3671,7 @@
 74E:\git\projeto_parcel\teck_talks\node_modules\domhandler\lib\node.d.ts.map133571651339958566 0
 94E:\git\projeto_parcel\teck_talks\node_modules\@parcel\runtime-js\lib\helpers\get-worker-url.js133571651360855566 0
 64E:\git\projeto_parcel\teck_talks\node_modules\domelementtype\lib133571651349712491 1
+56E:\git\projeto_parcel\teck_talks\dist\ui-ux.eb833062.png133576605387527433 0
 71E:\git\projeto_parcel\teck_talks\node_modules\@parcel\namer-default\src133571651337789909 1
 91E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\mutation-events.js133571651440311284 0
 73E:\git\projeto_parcel\teck_talks\node_modules\domelementtype\package.json133571651337889856 0
@@ -3918,6 +3921,7 @@
 70E:\git\projeto_parcel\teck_talks\node_modules\css-select\lib\sort.d.ts133571651369889938 0
 71E:\git\projeto_parcel\teck_talks\node_modules\css-select\lib\types.d.ts133571651370519565 0
 91E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\matchesselector.js133571651437413081 0
+60E:\git\projeto_parcel\teck_talks\dist\ebac_logo.0501c0d5.svg133576594792424871 0
 75E:\git\projeto_parcel\teck_talks\node_modules\css-select\lib\types.d.ts.map133571651365112930 0
 86E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\selectlist.js133571651445438079 0
 69E:\git\projeto_parcel\teck_talks\node_modules\css-select\lib\types.js133571651354339634 0
@@ -4266,7 +4270,7 @@
 86E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-canvas.js133571651395903777 0
 89E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-clip-path.js133571651396413450 0
 92E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-color-adjust.js133571651396683264 0
-56E:\git\projeto_parcel\teck_talks\dist\fundo.a62a0635.png133574968586291749 0
+56E:\git\projeto_parcel\teck_talks\dist\fundo.a62a0635.png133576605387537445 0
 103E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-container-queries-style.js133571651396903130 0
 97E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-container-queries.js133571651397033073 0
 101E:\git\projeto_parcel\teck_talks\node_modules\caniuse-lite\data\features\css-container-query-units.js133571651397093021 0
@@ -4656,6 +4660,7 @@
 88E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_object_destructuring_empty133571651406216783 1
 75E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_object_spread133571651407196188 1
 87E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_object_without_properties133571651407336102 1
+58E:\git\projeto_parcel\teck_talks\dist\backend.3c327b9e.png133576605387647336 0
 89E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_possible_constructor_return133571651407456060 1
 77E:\git\projeto_parcel\teck_talks\node_modules\@swc\helpers\_\_read_only_error133571651407545967 1
 61E:\git\projeto_parcel\teck_talks\node_modules\@parcel\workers133571651376365914 1
@@ -5275,7 +5280,7 @@
 77E:\git\projeto_parcel\teck_talks\node_modules\@parcel\profiler\lib\Trace.d.ts133571651360126017 0
 75E:\git\projeto_parcel\teck_talks\node_modules\@parcel\profiler\lib\Trace.js133571651347693774 0
 76E:\git\projeto_parcel\teck_talks\node_modules\@parcel\profiler\lib\Tracer.js133571651351591326 0
-55E:\git\projeto_parcel\teck_talks\dist\index.f75de5e1.js133574968585851998 0
+55E:\git\projeto_parcel\teck_talks\dist\index.f75de5e1.js133576606684552346 0
 64E:\git\projeto_parcel\teck_talks\node_modules\@parcel\plugin\lib133571651331953551 1
 68E:\git\projeto_parcel\teck_talks\node_modules\@parcel\plugin\LICENSE133571651324847957 0
 73E:\git\projeto_parcel\teck_talks\node_modules\@parcel\plugin\package.json133571651340418271 0
@@ -5591,7 +5596,7 @@
 74E:\git\projeto_parcel\teck_talks\node_modules\@parcel\cache\lib\FSCache.js133571651339628778 0
 75E:\git\projeto_parcel\teck_talks\node_modules\@parcel\cache\lib\IDBCache.js133571651349652529 0
 72E:\git\projeto_parcel\teck_talks\node_modules\@parcel\cache\lib\index.js133571651352110994 0
-56E:\git\projeto_parcel\teck_talks\dist\index.7275b115.ttf133574968586281732 0
+56E:\git\projeto_parcel\teck_talks\dist\index.7275b115.ttf133576605387627419 0
 76E:\git\projeto_parcel\teck_talks\node_modules\@parcel\cache\lib\LMDBCache.js133571651354729370 0
 73E:\git\projeto_parcel\teck_talks\node_modules\@parcel\bundler-default\lib133571651330454466 1
 82E:\git\projeto_parcel\teck_talks\node_modules\@parcel\bundler-default\package.json133571651350521993 0
@@ -5614,7 +5619,7 @@
 72E:\git\projeto_parcel\teck_talks\node_modules\@lezer\lr\dist\index.d.cts133571651343566341 0
 69E:\git\projeto_parcel\teck_talks\node_modules\@lezer\lr\dist\index.js133571651352520745 0
 67E:\git\projeto_parcel\teck_talks\node_modules\@lezer\common\LICENSE133571651318192106 0
-44E:\git\projeto_parcel\teck_talks\dist\styles133574968586461647 1
+44E:\git\projeto_parcel\teck_talks\dist\styles133576605387847215 1
 69E:\git\projeto_parcel\teck_talks\node_modules\@lezer\common\README.md133571651355758746 0
 74E:\git\projeto_parcel\teck_talks\node_modules\@lezer\common\dist\index.cjs133571651340887988 0
 76E:\git\projeto_parcel\teck_talks\node_modules\@lezer\common\dist\index.d.cts133571651347194065 0
@@ -5684,12 +5689,22 @@
 61E:\git\projeto_parcel\teck_talks\node_modules\.bin\semver.cmd133571651562900022 0
 55E:\git\projeto_parcel\teck_talks\node_modules\.bin\svgo133571651562900022 0
 77E:\git\projeto_parcel\teck_talks\node_modules\.bin\update-browserslist-db.cmd133571651562760049 0
+55E:\git\projeto_parcel\teck_talks\dist\data.67b3e070.png133576597836686106 0
 55E:\git\projeto_parcel\teck_talks\dist\data.9add3c40.png133571733636851651 0
-56E:\git\projeto_parcel\teck_talks\dist\index.f25e33a9.ttf133574968586281732 0
-45E:\git\projeto_parcel\teck_talks\dist\scripts133574968586541599 1
+67E:\git\projeto_parcel\teck_talks\dist\frontend.ffcc0254.png.3648.2p133576586502842678 0
+56E:\git\projeto_parcel\teck_talks\dist\fundo.1dbc7008.png133576594778928020 0
+59E:\git\projeto_parcel\teck_talks\dist\index.0ae8c581.js.map133576594806531519 0
+56E:\git\projeto_parcel\teck_talks\dist\index.2263e59d.ttf133576594778918021 0
+56E:\git\projeto_parcel\teck_talks\dist\index.5abfa3f1.ttf133576594778928020 0
+56E:\git\projeto_parcel\teck_talks\dist\index.f9a77b28.css133576594803916343 0
+56E:\git\projeto_parcel\teck_talks\dist\index.fdb9b54a.ttf133576594778858210 0
+45E:\git\projeto_parcel\teck_talks\dist\scripts133576606684652249 1
 64E:\git\projeto_parcel\teck_talks\dist\teck talks.59712999.js.map133571733636991575 0
 67E:\git\projeto_parcel\teck_talks\dist\teck_talks.59712999.js.9512.v133574888767603513 0
-64E:\git\projeto_parcel\teck_talks\dist\teck_talks.59712999.js.map133574968586441638 0
-53E:\git\projeto_parcel\teck_talks\dist\styles\main.css133574968585882003 0
-57E:\git\projeto_parcel\teck_talks\dist\styles\main.css.map133574968586421655 0
-57E:\git\projeto_parcel\teck_talks\dist\scripts\main.js.map133574968586441638 0
+53E:\git\projeto_parcel\teck_talks\dist\styles\main.css133576605387437472 0
+48E:\git\projeto_parcel\teck_talks\dist\index.html133576605387437472 0
+56E:\git\projeto_parcel\teck_talks\dist\index.f25e33a9.ttf133576605387617436 0
+55E:\git\projeto_parcel\teck_talks\dist\data.b5acb70a.png133576605387647336 0
+57E:\git\projeto_parcel\teck_talks\dist\styles\main.css.map133576605387727286 0
+64E:\git\projeto_parcel\teck_talks\dist\teck_talks.59712999.js.map133576605387867226 0
+57E:\git\projeto_parcel\teck_talks\dist\scripts\main.js.map133576606684622283 0
